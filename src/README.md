@@ -1,4 +1,5 @@
 # 原始碼說明
+================
 ###twitter_crawl+sentiment_analysis.R
 
 為推特爬蟲與情感分析的原始碼
