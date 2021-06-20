@@ -14,8 +14,9 @@ G15  _(┐ ◟;ﾟдﾟ)ノA+乞丐
 <!-- 請記得修改下方的相對路徑及連結 -->
 
 - [投影片](./G15_slides.pdf)
-- [書面報告](./G25_report.pdf)  
+- [書面報告](./G15_report.pdf)  
 - [專案網站](https://archielu.github.io/)
+
 
 
 
